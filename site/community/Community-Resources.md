@@ -112,6 +112,8 @@ Developers inside and outside of Facebook have given talks about GraphQL at conf
 
 To explore other community-developed resources and content about GraphQL, take a look at these sites:
 
+- [GraphQL in Motion](https://www.manning.com/livevideo/graphql-in-motion): An introductory video course for GraphQL
+- [Learning Clientside GraphQL with Apollo](https://www.manning.com/livevideo/learning-clientside-graphql-with-apollo): A video course that gets you started using GraphQL with Apollo
 - [How to GraphQL](https://www.howtographql.com): The Fullstack Tutorial for GraphQL
 - [Building Apollo](https://dev-blog.apollodata.com/)
 - [Learn GraphQL](https://learngraphql.com/basics/introduction)
